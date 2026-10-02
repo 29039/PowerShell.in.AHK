@@ -82,7 +82,7 @@ RunPowerShell(Script) {
 }
 
 ; Examples:
-MsgBox RunPowerShell("Get-Date")
-MsgBox RunPowerShell("'Hello from PowerShell'")
-MsgBox RunPowerShell("Get-Process | Select-Object -First 5")
-MsgBox RunPowerShell("Write-Output 'Success'; Write-Error 'Error'; Write-Host 'Information'")
+; MsgBox RunPowerShell("Get-Date")
+; MsgBox RunPowerShell("'Hello from PowerShell'")
+; MsgBox RunPowerShell("Get-Process | Select-Object -First 5")
+; MsgBox RunPowerShell("Write-Output 'Success'; Write-Error 'Error'; Write-Host 'Information'")
