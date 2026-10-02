@@ -1,11 +1,9 @@
 #Requires AutoHotkey v2.0
 
-; https://github.com/29039/Powershell.in.AHK
+; https://github.com/29039/PowerShell.in.AHK
 ; Version:  v0.01
-;
-; Run Windows PowerShell 5.1 commands in-process of AutoHotKey V2 without launching powershell.exe
-;
 ; License: LGPL v2.1
+; Description: Run Windows PowerShell 5.1 commands in-process of AutoHotKey V2 without launching powershell.exe
 ;
 ; Usage:
 ;   #Include Powershell-in-AHK.ahk
