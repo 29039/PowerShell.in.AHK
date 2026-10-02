@@ -16,7 +16,7 @@
 ;   CLR/.NET interop based on concepts and techniques from CLR.ahk by Lexikos:
 ;   Developed with AI assistance.
 
-global PSStreams := 35 ; Bitmask: 1=Success 2=Error 4=Warning 8=Verbose 16=Debug 32=Information
+global PSStreams := 35 ;  Default is Information + Error + Success
 
 RunPowerShell(Script) {
     global PSStreams
